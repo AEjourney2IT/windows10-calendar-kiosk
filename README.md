@@ -2,6 +2,10 @@
 
 Turn a spare Windows 10 desktop into a family wall calendar. The PC signs into a dedicated Windows account on its own, opens **One Calendar** synced with Google Calendar, and is only awake while the family is home.
 
+<p align="center">
+  <img src="docs/images/kiosk-wall-calendar.jpg" alt="One Calendar day view running on a portrait-mounted Dell monitor" width="400">
+</p>
+
 ## What's in this repo
 
 | Path | What it does | Run as |
