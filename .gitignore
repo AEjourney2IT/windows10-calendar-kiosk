@@ -1,0 +1,9 @@
+# Never commit passwords or local secrets
+*.secret
+*.local.*
+secrets/
+.env
+
+# Windows clutter
+Thumbs.db
+desktop.ini
